@@ -4,7 +4,7 @@
 </h1>
 
 <h1 align='center'>
-    <img src='./image/amostra.png'/>
+    <img src= 'https://ik.imagekit.io/rqwarktlrc/amostra_ONx-NCnqw.png'/>
 </h1>
 
 ## 🧧 About 
